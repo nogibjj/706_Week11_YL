@@ -31,13 +31,16 @@ This repository includes the main tasks for Week 11:
 * Prepare
 ![Alt text](figures/prepare_1.png)
 ![Alt text](figures/prepare_2.png)
-* Query
+* Query (The notebook for `query.ipynb` is too large to import to codespace. So I just showcase the screenshots of my SQL query results.)
 ![Alt text](figures/query_1.png)
 ![Alt text](figures/query_2.png)
 ![Alt text](figures/query_3.png)
 ![Alt text](figures/query_4.png)
 * Run the whole workflow 
 ![Alt text](figures/run.png)
+
+## Databricks cluster
+https://adb-7032072092481436.16.azuredatabricks.net/browse?o=7032072092481436
 
 ## References
 https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html
