@@ -22,4 +22,19 @@ This repository includes the main tasks for Week 11:
 * Use Databricks for scripting
 * Container built in `devcontainers` and virtual environment activated via `requirements.txt`
 
+## ETL Procedure
+
+* Ingest
+![Alt text](figures/ingest_1.png)
+![Alt text](figures/ingest_2.png)
+![Alt text](figures/ingest_3.png)
+* Prepare
+![Alt text](figures/prepare_1.png)
+![Alt text](figures/prepare_2.png)
+* Query
+![Alt text](figures/query_1.png)
+![Alt text](figures/query_2.png)
+![Alt text](figures/query_3.png)
+![Alt text](figures/query_4.png)
+
 ## References
