@@ -36,5 +36,7 @@ This repository includes the main tasks for Week 11:
 ![Alt text](figures/query_2.png)
 ![Alt text](figures/query_3.png)
 ![Alt text](figures/query_4.png)
+* Run the whole workflow 
+![Alt text](figures/run.png)
 
 ## References
